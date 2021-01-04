@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>PHP, Laravel, Slim, Python, JavaScript, TypeScript, Angular, React, Vue e WebSocket.</strong>
+  🦄 Skills: <strong>PHP, Laravel, Slim, Python, JavaScript, TypeScript, Angular, React and Vue.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Docker, Git e GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Docker, Git and GitHub.</strong>
 </p>
 
 <p align="left">
