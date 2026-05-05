@@ -7,7 +7,3 @@
 <p align="left">
   🦄 Skills: <strong>PHP, Laravel, Slim, Python, Node, JavaScript, TypeScript, Angular, React and Vue.</strong>
 </p>
-
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, Docker, Git and GitHub.</strong>
-</p>
